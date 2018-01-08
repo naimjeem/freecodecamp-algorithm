@@ -1,0 +1,14 @@
+{
+  "name": "freecodecamp-algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naim Jeem",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.14.9"
+  }
+}
